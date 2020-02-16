@@ -1,0 +1,49 @@
+body{
+	margin:50px;
+	background: url(../img/TI2qItoi.jpg) no-repeat fixed;
+	background-position: 0px -100px;
+}
+
+.artemis_video{
+	width: 500px;
+}
+.Artemida{
+	text-align: center;
+	font-family: Comic Sans MS;
+}
+.Artemis{
+	list-style-image: url(../img/marker.png);
+	font-size: 18px;
+	font-family: "Comic Sans MS";
+	margin-left: 250px;
+	margin-right: 250px;
+	font-size: 18px;
+	color: white;
+	background: #727272BD;
+}
+
+.orbitalna_stancia{
+	width: 500px
+}
+li{
+	text-align: justify;
+}
+h2{
+	font-family: "Comic Sans MS";
+	margin-left: 250px;
+	margin-right: 250px;
+	font-size: 18px;
+	color: white;
+	background: #727272C9;
+}
+div{
+	width: 1000px;
+	margin-left: 85px;
+	background: #80808046;
+}
+img{
+	margin-left: 250px;
+}
+iframe{
+	margin-left: 250px;
+}
